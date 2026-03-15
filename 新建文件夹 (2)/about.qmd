@@ -1,0 +1,16 @@
+---
+title: "About"
+---
+
+# About Me
+
+I am a Statistics and Data Science student at UCLA.
+
+Before transferring to UCLA, I studied Computer Science at Santa Monica College.
+
+## Interests
+
+-   Data science
+-   Machine learning
+-   statistical modeling
+-   data visualization
