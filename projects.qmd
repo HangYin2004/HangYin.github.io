@@ -1,0 +1,15 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+## Penguin Classification Project
+
+Built machine learning models to classify penguin species using statistical features.
+
+Tools used: - Python - scikit-learn - pandas
+
+## UCLA DataFest Project
+
+Analyzed U.S. rental market data and created visualizations using R.

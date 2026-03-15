@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Built machine learning models to classify penguin species using statistical features.\nTools used: - Python - scikit-learn - pandas\n\n\n\nAnalyzed U.S. rental market data and created visualizations using R."
+  },
+  {
+    "objectID": "projects.html#penguin-classification-project",
+    "href": "projects.html#penguin-classification-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Built machine learning models to classify penguin species using statistical features.\nTools used: - Python - scikit-learn - pandas"
+  },
+  {
+    "objectID": "projects.html#ucla-datafest-project",
+    "href": "projects.html#ucla-datafest-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzed U.S. rental market data and created visualizations using R."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: yinhang779354683@gmail.com\nLocation: Los Angeles, CA"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a Statistics and Data Science student at UCLA.\nBefore transferring to UCLA, I studied Computer Science at Santa Monica College.\n\n\n\nData science\nMachine learning\nstatistical modeling\ndata visualization"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About",
+    "section": "",
+    "text": "Data science\nMachine learning\nstatistical modeling\ndata visualization"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Henry Yin",
+    "section": "",
+    "text": "Statistics and Data Science student at UCLA.\n\n\nI am currently studying Statistics and Data Science at the University of California, Los Angeles.\nBefore transferring to UCLA, I studied Computer Science at Santa Monica College.\nI am interested in:\n\nData science\nMachine learning\nData analysis\nStatistical modeling\n\n\n\n\nUniversity of California, Los Angeles\nB.S. Statistics and Data Science\nExpected Graduation: 2026\nSanta Monica College\nComputer Science\n\n\n\nProgramming: - Python - R - SQL - C++\nTools: - RStudio - Power BI - Excel"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Henry Yin",
+    "section": "",
+    "text": "I am currently studying Statistics and Data Science at the University of California, Los Angeles.\nBefore transferring to UCLA, I studied Computer Science at Santa Monica College.\nI am interested in:\n\nData science\nMachine learning\nData analysis\nStatistical modeling"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Henry Yin",
+    "section": "",
+    "text": "University of California, Los Angeles\nB.S. Statistics and Data Science\nExpected Graduation: 2026\nSanta Monica College\nComputer Science"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Henry Yin",
+    "section": "",
+    "text": "Programming: - Python - R - SQL - C++\nTools: - RStudio - Power BI - Excel"
+  }
+]
