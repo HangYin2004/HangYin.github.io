@@ -1,0 +1,75 @@
+---
+title: "About"
+---
+
+# About Me
+
+My name is **Henry Yin**, and I am currently a Statistics and Data Science student at the **University of California, Los Angeles (UCLA)**.
+
+I am interested in data analysis, statistical modeling, and applying quantitative methods to real-world problems. My goal is to develop strong analytical skills that can be used to support data-driven decision making in business and technology.
+
+## Education
+
+### University of California, Los Angeles
+**Bachelor of Science — Statistics and Data Science**  
+Expected Graduation: June 2026  
+GPA: 3.58
+
+Relevant areas of study include:
+
+- Statistical inference
+- Linear regression
+- Data analysis
+- Model diagnostics
+- Data visualization
+
+### Santa Monica College
+
+**Associate of Science — Computer Science**  
+2022 – 2024  
+GPA: 3.92
+
+## Technical Skills
+
+### Programming
+
+- Python
+- R
+- SQL
+- C++
+
+### Data Tools
+
+- RStudio
+- Power BI
+- Microsoft Excel
+- Git / GitHub
+
+### Statistical Methods
+
+- Linear regression
+- Hypothesis testing
+- Model transformation
+- Diagnostic plots
+- Statistical inference
+
+### Data Visualization
+
+- ggplot2
+- matplotlib
+- seaborn
+- base R graphics
+
+## Languages
+
+- English (fluent)
+- Mandarin (native)
+
+## Career Interests
+
+I am currently interested in roles related to:
+
+- Data Analysis
+- Data Science
+- Business Analytics
+- Statistical Modeling

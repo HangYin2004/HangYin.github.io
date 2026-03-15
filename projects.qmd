@@ -1,0 +1,47 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+Below are selected projects from my coursework and data competitions.
+
+---
+
+## BMI and Glucose Relationship Analysis
+
+**Role:** Design Lead  
+**Tools:** R, statistical modeling
+
+This project analyzed the relationship between **BMI and glucose levels** using linear regression techniques.
+
+Key work included:
+
+- performing regression modeling
+- evaluating models using diagnostic plots
+- applying model transformations
+- improving model performance through variable selection
+
+The analysis demonstrated how statistical models can be used to understand relationships in health-related datasets.
+
+---
+
+## U.S. Rental Market Insights Platform
+
+**Role:** Data Analyst  
+**Tools:** R, data visualization, statistical analysis
+
+This project analyzed nationwide rental market trends using large datasets covering:
+
+- rent prices
+- occupancy rates
+- housing availability
+
+Work included:
+
+- analyzing leasing trends across U.S. cities
+- integrating unemployment data to provide economic context
+- building visualizations to communicate geographic trends
+- presenting findings during **UCLA DataFest**
+
+The project highlighted how data analysis can reveal meaningful economic patterns in the housing market.

@@ -1,0 +1,37 @@
+---
+title: "Home"
+---
+
+# Henry Yin
+
+**Statistics and Data Science Student – UCLA**
+
+Welcome to my personal website. I am a Statistics and Data Science student at the University of California, Los Angeles (UCLA) with a strong interest in data analysis, machine learning, and statistical modeling.
+
+My academic work focuses on understanding data through statistical methods and turning complex datasets into meaningful insights.
+
+## Interests
+
+- Data Analysis
+- Statistical Modeling
+- Machine Learning
+- Data Visualization
+- Business Analytics
+
+## Quick Background
+
+- 🎓 UCLA — B.S. Statistics and Data Science (Expected 2026)
+- 💻 Programming: Python, R, SQL, C++
+- 📊 Tools: Power BI, Excel, RStudio
+- 📈 Experience with regression analysis, statistical inference, and data visualization
+
+## What I Do
+
+I enjoy working with real-world datasets to uncover patterns and insights. My work often involves:
+
+- cleaning and analyzing datasets
+- building statistical models
+- visualizing trends and relationships
+- communicating results clearly
+
+You can explore my work in the **Projects** section.
